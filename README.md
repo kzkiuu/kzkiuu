@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 <!--
+Hello from Japan!　I am Kizuku from Shiga University and pursuing my MS in Data Science, with one more year to completion.
+I completed my Bachelor's degree in Computer Science and Mathematics at Lakeland University, and took a step on the Graduate school to experience carrying out research!
+
+In my first year of MS, I explored the sea of interests and decided to focus on silence in speech.
+Currently, I have planned to perform an RCT experiment and build an LLM model to discover the contextual connection of the effect of silence on the Japanese language.
+
+Regarding my tech path, I learned programming in C++, Python, and a little bit of Java, and created a bingo game, android app., Web pages, and so forth in my Bachelor's program.
+
 **kzkiuu/kzkiuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
